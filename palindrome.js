@@ -6,4 +6,4 @@ function isPalindrome(str) {
     return cleanStr === cleanStr.split('').reverse();
   }
   
-  console.log(isPalindrome("racecar")); 
+  console.log(isPalindrome("carrace")); 
